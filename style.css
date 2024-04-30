@@ -1,0 +1,213 @@
+h1 { color: grey;}
+.body{
+    background-color: grey;
+    color: pink;
+}
+.box-1 {
+    background-color: rgb(214, 130, 27);
+}
+body { margin: 0;
+}
+.box-1 { 
+    background-color:rgb(23, 196, 179);
+    color: pink;
+}
+a {
+    text-decoration: none;
+    color: pink;
+}
+a:hover{
+    color: pink;
+}
+a:active{
+    color: green;
+}
+a:visited{
+color: yellow;
+}
+.container { 
+    width: 960px;
+}
+.container { 
+    width: 960px;
+    margin: auto;
+}
+.container{
+    width: 80%
+
+}   
+p {
+    margin: 5px 10px 5px 10px;
+}
+.elr {
+    clear: both;
+}
+.box-1 { 
+    background-color: white;
+    border:5px pink;
+}
+.box-1 {
+    background-color: pink;
+    border-right: 5px white;
+    border-left: 5px pink;
+    border-top: 5px white;
+    border-bottom: 5px pink;
+}
+.box-1 {
+    background-color: pink;
+    color: #fff;
+    border: 5px pink;
+
+}
+.box-1 { 
+    background: pink;
+    color: #fff;
+    border: 5px pink;
+    border: 3px;
+    border-bottom-width: 10px;
+}
+.box-1{
+    background-color: white;
+    color:pink;
+    border-width: 3px;
+    border-bottom-width : 10px;
+    border-bottom-style: dotted;
+    border: 5px pink;
+    padding-top: 20px;
+}
+/*
+*{
+    margin: 0;
+    padding: 0;
+}
+*/
+.box-1{
+    background-color: #333;
+    color:#fff;
+    border-width: 3px;
+    border-bottom-width : 10px;
+    border-bottom-style: dotted;
+    border: 5px pink;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-right: 20px;
+    padding-left: 20px;
+}
+.box-1 {
+    background-color: white;
+    color:pink;
+    border-width: 3px;
+    border-bottom-width: 10px;
+    border-top-width: dotted;
+    border: 5px white;
+    padding: 20px;
+}
+.box-1 {
+    background-color: pink;
+    color:white;
+    border-width: 3px;
+    border-bottom-width: 10px;
+    border-top-width: dotted;
+    border: 5px pink;
+    padding: 20px;
+    margin: 20px;
+    margin: 20px 0;
+}
+.box-1 h1 { 
+    font-family: Tahoma;
+    font-weight: 800;
+    font-style: italic;
+    text-decoration: underline;
+    text-transform: uppercase;
+    letter-spacing: 0.2em;
+}
+.box-1 h1 {
+    font-family: Tahoma;
+    font-weight: 800;
+    font-style: italic;
+    text-decoration: underline;
+    text-transform: uppercase;
+    letter-spacing: 0.2em;
+    word-spacing: 1em;
+
+}
+.box-2 { 
+    border: 3px dotted pink;
+    padding: 20px;
+    margin: 20px 0;
+
+}
+.categories {
+    border: 1px rgb(236, 133, 217) solid;
+    padding: 10px;
+    border-radius: 15px;
+}
+.categories h2 {
+    padding: 0;
+    list-style: square;
+}
+.categories {
+    border: 1px rgb(249, 132, 253) solid;
+    padding: 10px;
+    border-radius: 15px;
+}
+.categories h2 {
+    text-align: center;
+}
+.categories ul {
+    padding: 0;
+    list-style: none;
+}
+.categories ul {
+    padding: 0;
+    list-style: square;
+    list-style: none;
+}
+.categories li {
+    padding-bottom: 6px;
+    border-bottom: dotted 1pxrgb(227, 27, 164);
+    list-style-image: url('../images/check.png');
+}
+.categories li {
+    padding: 0;
+    padding-left: 20px;
+    list-style:square;
+    list-style: none;
+}
+.categories li {
+    padding-bottom: 6px;
+    border-bottom: dotted 1pxrgb(220, 127, 229);
+    list-style-image: url('../images/check.png');
+}
+.my-form {
+    padding: 20px;
+}
+.my-form .form-group {
+    padding-bottom: 15px;
+}
+.my-form label {
+    display:block;
+}
+.my-form input[type="text"],.my-form textarea{
+padding: 8px;
+width: 100%;
+}
+.button{
+    background-color: pink;
+    color: pink;
+    padding: 10px 15px;
+    border: none;
+}
+/*a:vidited {
+    color:black;
+}*/
+.button:hover {
+    background-color: grey;
+    color: white;
+}
+.block {
+    float:left
+    border:left 1px solid #333
+    pading:10px
+    box-sizing:border-box
+}
